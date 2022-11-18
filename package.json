@@ -1,0 +1,21 @@
+{
+    "name": "@wpazderski/wallets-types",
+    "version": "1.0.0",
+    "description": "Common types for wallets manager",
+    "author": "Witold Pazderski",
+    "license": "MIT",
+    "types": "src/index.d.ts",
+    "scripts": {
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wpazderski/wallets-types.git"
+    },
+    "bugs": {
+        "url": "https://github.com/wpazderski/wallets-types/issues"
+    },
+    "homepage": "https://github.com/wpazderski/wallets-types#readme",
+    "dependencies": {
+        "@wpazderski/kvapi-types": "^1.0.0"
+    }
+}
