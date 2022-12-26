@@ -3,6 +3,10 @@ import * as currency from "../data/currency";
 import * as market from "../data/market";
 import * as rates from "../data/rates";
 
+
+
+
+
 export interface ExternalData {
     currencies: currency.Currency[];
     cryptocurrencies: cryptocurrency.CryptoCurrency[];
